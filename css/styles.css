@@ -111,6 +111,7 @@ p {
 /* Boton para descargar el cv */
 
 #boton {
+    padding-top: 10px;
     text-align: center;
     padding-block-end: 200px;
         
