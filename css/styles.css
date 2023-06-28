@@ -130,7 +130,7 @@ p {
 
 
 #hablemos {
-    
+    display: flexbox;
     line-height: 1.2;
     background-color: #f1b1de;
     padding: 6px;
